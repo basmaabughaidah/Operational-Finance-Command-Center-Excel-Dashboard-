@@ -75,11 +75,13 @@ It does not provide the operational workbook or underlying datasets.
 
 
 ## Screenshots
+## Screenshots
 
-![Dashboard](docs/images/Screenshot%2001.png)
-![Dashboard](docs/images/Screenshot%2002.png)
-![Dashboard](docs/images/Screenshot%2003.png)
-![Dashboard](docs/images/Screenshot%2004.png)
-![Dashboard](docs/images/Screenshot%2005.png)
-![Dashboard](docs/images/Screenshot%2006.png)
-![Dashboard](docs/images/Screenshot%2007.png)
+![Screenshot 01](Screenshot%2001.png)
+![Screenshot 02](Screenshot%2002.png)
+![Screenshot 03](Screenshot%2003.png)
+![Screenshot 04](Screenshot%2004.png)
+![Screenshot 05](Screenshot%2005.png)
+![Screenshot 06](Screenshot%2006.png)
+![Screenshot 07](Screenshot%2007.png)
+

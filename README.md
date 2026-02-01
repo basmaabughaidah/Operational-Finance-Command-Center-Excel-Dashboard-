@@ -2,7 +2,7 @@
 
 **Precision-first** Excel dashboard that unifies **Purchase Orders (POs)**, **invoicing**, and **milestone-based payments** into a single operational finance view at the project level.
 
-> This repository intentionally includes **documentation and screenshots only**.  
+> This repository intentionally includes **screenshots only**.  
 > The operational workbook and raw datasets are **not published** to protect privacy, client confidentiality, and commercially sensitive information.
 
 ---

@@ -1,6 +1,6 @@
 # Operational Finance Command Center (Excel Dashboard)
 
-Public-facing documentation for an internal, **precision-first** Excel dashboard that unifies **Purchase Orders (POs)**, **invoicing**, and **milestone-based payments** into a single operational finance view at the project level.
+**Precision-first** Excel dashboard that unifies **Purchase Orders (POs)**, **invoicing**, and **milestone-based payments** into a single operational finance view at the project level.
 
 > This repository intentionally includes **documentation and screenshots only**.  
 > The operational workbook and raw datasets are **not published** to protect privacy, client confidentiality, and commercially sensitive information.
@@ -40,16 +40,6 @@ EGP equivalents depend on Excel-based FX logic (e.g., dynamic exchange-rate retr
 If FX retrieval is unavailable or fails, conversion cells may **fall back to non-converted values**.  
 For the most accurate snapshot, refresh calculations and data connections inside Excel (e.g., **Data → Refresh All**).
 
----
-Suggested filenames:
-- `dashboard-overview.png`
-- `po-value-per-project.png`
-- `po-timeline-payment-terms.png`
-- `expected-invoicing-date.png`
-- `actual-invoicing-date.png`
-- `po-value-per-area.png`
-
----
 
 ## Data privacy (must-read before publishing screenshots)
 Screenshots must not include:
@@ -57,9 +47,6 @@ Screenshots must not include:
 - PO references, invoice numbers, internal IDs
 - Phone numbers, emails, or any personal identifiers
 - Exact commercial amounts if confidential
-
-Recommendation:
-- Blur/redact sensitive fields or replace with masked labels (e.g., **Client A / Client B**), and use ranges where needed.
 
 ---
 
